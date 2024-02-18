@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2022", "DOM"],
+    "moduleResolution": "node",
+    "module": "ES2022",
+    "target": "ES2017"
+  },
+}
